@@ -14,4 +14,4 @@ st.title("Cardápio")
  #   '<a href="https://html-flask-server.onrender.com" target="_blank">Abrir HTML</a>',
   #  unsafe_allow_html=True
 #)
-st.markdown('[Abrir página HTML](http://localhost:8000/index.html)', unsafe_allow_html=True)
+st.markdown('[Abrir página HTML](https://cybersh0gun.github.io/Pagina-restaurante/)', unsafe_allow_html=True)
